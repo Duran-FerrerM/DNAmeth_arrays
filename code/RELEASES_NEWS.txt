@@ -1,0 +1,8 @@
+v.1.1
+Increased the stringency of the detection p-values to increase technical reproducibility and minimize intermediate methylation from low intensity regions related to artifacts, deletions, etc: https://academic.oup.com/nar/article/46/20/e123/5061974 
+
+v.2
+Include multiple new controls, plots. Better discimination of good quality samples. Modified the code to be more RAM efficient.
+
+v.2.1
+Minor bug fixes when plotting some quality controls.
