@@ -6,3 +6,10 @@ Include multiple new controls, plots. Better discimination of good quality sampl
 
 v.2.1
 Minor bug fixes when plotting some quality controls.
+
+v.2.2 
+- Minor fix to mdsplotting in case no good samples are present. 
+- Report sessioninfo at end.
+
+v.3
+- More options when filtering detection p-values, including a filtering of all CpGs below a p-value threshold, or a certain percentage of samples shoing CpGs below a certain p-value cutoff
