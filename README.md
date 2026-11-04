@@ -11,6 +11,6 @@ For the last QC implementations (2026), you can check the following studies:
 **NOTE:** When using minfi, please mind the deafult SNP annotation db, as it may be outdated as previously reported: 
 https://www.biostars.org/p/261603/ or https://www.biostars.org/p/9555147/.
 
-💡 In general, I recommend using SeSAME for its consistent update. However, note that the derivation of detection p-values is more stringent than the minfi procedure. You may consider this when merging several versions of Illumina DNA methylation arrays.
+💡 In general, I recommend using SeSAME for its consistency in updates. However, note that the derivation of detection p-values is more stringent than the minfi procedure. You may consider this when merging several versions of Illumina DNA methylation arrays.
 
 ✉️ Do not hesitate to contact me for any doubt at maduran@recerca.clinic.cat.
