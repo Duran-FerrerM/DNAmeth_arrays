@@ -2,10 +2,10 @@
 
 For the last QC implementations (2026), you can check the following studies:
 
-- (Duran-Ferrer, Nat. Comms 2026, accepted)[https://github.com/Duran-FerrerM/CLL-ImmunoEpigenomics]. <br>
+- [Duran-Ferrer, Nat. Comms 2026, accepted](https://github.com/Duran-FerrerM/CLL-ImmunoEpigenomics). <br>
   QC using [SeSAMe](https://bioconductor.org/packages/3.23/bioc/vignettes/sesame/inst/doc/sesame.html) is avaiable [here](https://duran-ferrerm.github.io/CLL-ImmunoEpigenomics/revisions/revision-1/reviewer-1/Fig.1A.COO.submission.html)<br>
 
-- (Gabbutt & Duran-Ferrer, Nature 2025)[https://github.com/Duran-FerrerM/evoflux]. <br>
+- [Gabbutt & Duran-Ferrer, Nature 2025](https://github.com/Duran-FerrerM/evoflux). <br>
   QC using using [minfi](https://bioconductor.org/packages/3.23/bioc/vignettes/minfi/inst/doc/minfi.html) is avaiable [here](https://duran-ferrerm.github.io/evoflux/QC_DNAme_arrays.v.4.1.html)
 
 **NOTE:** When using minfi, please mind the deafult SNP annotation db, as it may be outdated as previously reported: 
