@@ -1,4 +1,4 @@
-# This repository is deprecated.
+# 🚨This repository is deprecated.
 
 For the last QC implementations (2026), you can check the following studies:
 
