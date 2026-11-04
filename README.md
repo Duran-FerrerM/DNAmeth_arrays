@@ -1,6 +1,6 @@
 # 🚨This repository is deprecated.
 
-For the last QC implementations (2026), you can check the following studies:
+✅ For the last QC implementations (2026), you can check the following studies:
 
 - [Duran-Ferrer, Nat. Comms 2026, accepted](https://github.com/Duran-FerrerM/CLL-ImmunoEpigenomics). <br>
   QC using [SeSAMe](https://bioconductor.org/packages/3.23/bioc/vignettes/sesame/inst/doc/sesame.html) is avaiable [here](https://duran-ferrerm.github.io/CLL-ImmunoEpigenomics/revisions/revision-1/reviewer-1/Fig.1A.COO.submission.html)<br>
