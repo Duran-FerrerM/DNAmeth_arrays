@@ -15,4 +15,6 @@
 
 All of this code was developed during the study Duran-Ferrer et al. (2026) (accepted). Please, cite it accordingly.
 
+## Contact
+
 ✉️ Do not hesitate to contact me for any doubt at maduran@recerca.clinic.cat.
