@@ -9,7 +9,7 @@
   **NOTE:** When using minfi, please mind the deafult SNP annotation db, as it may be outdated as previously reported:
   https://www.biostars.org/p/261603/ or https://www.biostars.org/p/9555147/.
 
-💡 In general, I recommend using SeSAME for your subsequent studies for its consistency in updates, flexibility and efficient processing and masking. However, note that the derivation of detection p-values is more stringent than the minfi procedure. You may consider this when merging several versions of Illumina DNA methylation arrays or when processing lots of samples.
+💡 In general, I recommend using [SeSAMe](https://bioconductor.org/packages/3.23/bioc/vignettes/sesame/inst/doc/sesame.html) for your subsequent studies for its consistency in updates, flexibility and efficient processing and masking. However, note that the derivation of detection p-values is more stringent than the minfi procedure. You may consider this when merging several versions of Illumina DNA methylation arrays or when processing lots of samples.
 
 ## Citation
 
