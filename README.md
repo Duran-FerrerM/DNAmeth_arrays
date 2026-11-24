@@ -13,7 +13,7 @@
 
 ## Citation
 
-All of this code was developed during the study Duran-Ferrer et al. (2026) (accepted). Please, cite it accordingly.
+All the code from the notebooks was developed during the study Duran-Ferrer et al. (2026) (accepted). Please, cite it accordingly.
 
 ## Contact
 
